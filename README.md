@@ -6,7 +6,7 @@ This Patch is part of the [TESSER environment](https://bitbucket.org/AdrianArtac
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-![TESS:gate](https://docs.google.com/drawings/d/e/2PACX-1vRvgPrNFXh3cwcrpR7XWKcV68HtI4AU78u2goUTkf4T8FMtT1fjK45B4iz9nrvDD9klIIeKt9BLMW3z/pub?w=564&h=247)
+![TESS:gate](img/gui.png)
 
 ### What is this device for?
 
